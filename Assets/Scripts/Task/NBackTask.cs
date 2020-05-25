@@ -38,7 +38,7 @@ namespace Task
         /// <param name="n">The number of characters to memorize.</param>
         /// <param name="stimulusDuration">The stimulus duration in seconds.</param>
         /// <param name="interStimulusDuration">The interstimulus duration in seconds.</param>
-        public NBackTask(string[] characterSet, int n, float stimulusDuration = 2.0f, float interStimulusDuration = 2.5f)
+        public NBackTask(string[] characterSet, int n, float stimulusDuration = 0.5f, float interStimulusDuration = 2.5f)
         {
             CharacterSet = characterSet;
             N = n;

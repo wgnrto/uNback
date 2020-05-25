@@ -11,6 +11,6 @@ namespace Task
         [SerializeField] private int _n = 0;
         #endregion
 
-        private void Start() => Task = new NBackTask(_characterSet, _n, 0.2f, 0.2f);
+        private void Start() => Task = new NBackTask(_characterSet, _n);
     }
 }
