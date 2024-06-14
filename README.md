@@ -1,6 +1,9 @@
 # uNback 
 Unity package for text based n-back tasks procedures. 
 
+![image](https://github.com/wgnrto/uNback/assets/24171719/99c7b0ba-3f9e-4a7c-8358-11c99123f0ce)
+
+
 ## Extensibility 
 The project is structured in a way to enable the implementation of custom n-back task procedures. Just inherit from `Assets/Scripts/Task/ATask<T>` to create other types of time-dependent tasks. 
 
