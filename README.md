@@ -1,5 +1,5 @@
 # uNback 
-Unity package for text based n-back tasks procedures. 
+Unity package for n-back tasks procedures based on text-based tasks described by [T. S. Braver. 1997. "A Parametric Study of Prefrontal Cortex Involvement in Human Working Memory". NeuroImage.](https://www.sciencedirect.com/science/article/pii/S1053811996902475).
 
 ![image](https://github.com/wgnrto/uNback/assets/24171719/99c7b0ba-3f9e-4a7c-8358-11c99123f0ce)
 
